@@ -1,0 +1,4 @@
+name: time-series-forecasting-env
+dependencies:
+  - pip:
+    - -r requirements.txt
